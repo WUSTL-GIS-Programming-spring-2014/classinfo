@@ -12,7 +12,7 @@ Think Python (http://www.greenteapress.com/thinkpython/thinkpython.pdf)
   
 ### CLASS SCHEDULE  
   
-1.	**1/15/2014**	Course Intro  
+1.	[**1/15/2014**](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Class1.md)	Course Intro  
 	*	Installation  (http://docs.python.org/2/using/windows.html)
 	*	IDLE Toying (https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/)  
 	*	Sublime (http://www.sublimetext.com/)
