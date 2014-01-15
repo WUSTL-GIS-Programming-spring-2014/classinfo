@@ -10,6 +10,7 @@
 	-	git (http://git-scm.com/book/en/Getting-Started-Git-Basics)  
 		+	Code School tryGit (http://try.github.io/levels/1/challenges/1)
 	-	github (https://help.github.com/articles/set-up-git)  
+*	IPython (http://ipython.org/install.html)
 
 No quiz today
 Assignment 1: IPython Notebook: An Informal Introduction to Python 
