@@ -1,16 +1,24 @@
-**Books** (all ProQuest)
+#GIS Programming
+## Spring 2014
 
+### BOOKS
+All books are on ProQuest
 Python® Programming for the Absolute Beginner, Third Edition  
 Programming ArcGIS 10.1 with Python Cookbook  
 Python Geospatial Development - Second Edition (Chapter 3 only)  
+Think Python (http://www.greenteapress.com/thinkpython/thinkpython.pdf)  
 (Might consider Learning Python as a supplemental)  
   
   
-**COURSE SCHEDULE**  
+### CLASS SCHEDULE  
   
 1.	**1/15/2014**	Course Intro  
-	*	Installation, IDLE Toying, Sublime  
-	*	git and github  
+	*	Installation  
+	*	IDLE Toying (https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/)  
+	*	Sublime (http://www.sublimetext.com/)  
+	*	git (http://git-scm.com/book/en/Getting-Started-Git-Basics)  
+	*	github (https://help.github.com/articles/set-up-git)  
+	*	http://try.github.io/levels/1/challenges/1
 	*	Assignment 1: ipython intro  
 2.	**1/22/2014**	Lists and Flow Control  
 	*	Functions, Modules, and scope  
@@ -81,7 +89,7 @@ Python Geospatial Development - Second Edition (Chapter 3 only)
 17.	**5/07/2014**	Final Exam  
   
   
-**GRADING**
+###GRADING
   
 15 Assignments at 50 points each  
 10 Quizzes at 15 points each  
@@ -91,10 +99,17 @@ Grade is percent out of 1000 points.
 Quizzes will generally be three to five questions.  
 All assignments except assignment 9 are written in python and due at the beginning of class on github.  
   
-*Assignment grading*  
+####Assignment grading  
 10 pts Commenting and coding style  
 10 pts Syntax (no syntax errors)  
 30 pts Achieves objectives  
 -5 pts per day for late assignments (per 24 hours, so penalty is -10 pts at 5pm the day after class)  
   
+###RESOURCES
+####Class 1
+*	Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+*	Github Flavored Markdown (GFM) https://help.github.com/articles/github-flavored-markdown
+*	Git Basics http://git-scm.com/book/en/Getting-Started-Git-Basics
+*	Set Up Git https://help.github.com/articles/set-up-git
+*	tryGit http://try.github.io/
   
