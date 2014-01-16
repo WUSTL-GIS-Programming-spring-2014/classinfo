@@ -91,14 +91,34 @@ Think Python (http://www.greenteapress.com/thinkpython/thinkpython.pdf)
   
   
 ###GRADING
+
+####Course Grade
+Letter grades are determined by meeting or exceeding a minimum percentage in the course  
+```
+    Grade    Percent    Points    
+    A+       98%        980    
+    A        92%        920    
+    A-       90%        900    
+    B+       88%        880    
+    B        82%        820    
+    B-       80%        800    
+    C+       78%        780    
+    C        72%        720    
+    C-       70%        700    
+    D+       68%        680    
+    D        62%        620    
+    D-       60%        600    
+    CR       60%        600    (For Credit/No Credit option only)
+```
   
+#### Scored Items and Values  
 15 Assignments at 50 points each  
 10 Quizzes at 15 points each  
 1 Final at 100 points  
 Grade is percent out of 1000 points.  
   
 Quizzes will generally be three to five questions.  
-All assignments except assignment 9 are written in python and due at the beginning of class on github.  
+All assignments except assignment 9 are written in python and due at the beginning of the next class on github.  
   
 ####Assignment grading  
 10 pts Commenting and coding style  
