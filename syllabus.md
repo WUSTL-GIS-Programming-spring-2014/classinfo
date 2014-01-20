@@ -20,12 +20,12 @@ Think Python (http://www.greenteapress.com/thinkpython/thinkpython.pdf)
 	*	git (http://git-scm.com/book/en/Getting-Started-Git-Basics)  
 		-	Code School tryGit (http://try.github.io/levels/1/challenges/1)
 	*	github (https://help.github.com/articles/set-up-git)  
-	*	Assignment 1: ipython intro  
 2.	**1/22/2014**	Lists and Flow Control  
 	*	Functions, Modules, and scope  
 	*	Introduction to arcpy  
 	*	64-bit background versus 32-bit  
 	*	Quiz 1: Github  
+	*	Assignment 1: Ipython intro  
 	*	Assignment 2: Module and flow control  
 3.	**1/29/2014**	Exceptions  
 	*	Data Structures  
