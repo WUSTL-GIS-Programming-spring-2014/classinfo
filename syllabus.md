@@ -20,7 +20,7 @@ Think Python (http://www.greenteapress.com/thinkpython/thinkpython.pdf)
 	*	git (http://git-scm.com/book/en/Getting-Started-Git-Basics)  
 		-	Code School tryGit (http://try.github.io/levels/1/challenges/1)
 	*	github (https://help.github.com/articles/set-up-git)  
-2.	**1/22/2014**	Lists and Flow Control  
+2.	[**1/22/2014**](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Class2.md)	Lists and Flow Control  
 	*	Functions, Modules, and scope  
 	*	Introduction to arcpy  
 	*	64-bit background versus 32-bit  
