@@ -2,18 +2,21 @@
 ## Spring 2014
 
 ### BOOKS
-All books are on ProQuest
-Python® Programming for the Absolute Beginner, Third Edition  
-Programming ArcGIS 10.1 with Python Cookbook  
-Python Geospatial Development - Second Edition (Chapter 3 only)  
-Think Python (http://www.greenteapress.com/thinkpython/thinkpython.pdf)  
-(Might consider Learning Python as a supplemental)  
+*Books are accessed through [WUSTL Safari Tech Books Online](http://library.wustl.edu/subjects/engineering/safari.html)*  
+**Primary**  
+[Think Python](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781449332006?uicode=washumo)  
+[Programming ArcGIS 10.1 with Python Cookbook](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/-/9781849694445?uicode=washumo)  
+[Python Geospatial Development - Second Edition, Chapter 3 only](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781782161523/3dot-python-libraries-for-geospatial-development/ch03_html?uicode=washumo)  
+  
+**Supplemental Reading**   
+[Python® Programming for the Absolute Beginner (not 3rd edition)](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/1592000738?uicode=washumo)  
+[Learning Python](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781449355722?uicode=washumo)  
   
   
 ### CLASS SCHEDULE  
   
   
-1.  [**1/15/2014**](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Class1.md)   Course Intro  
+1.  [**1/15/2014** Course Introduction](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Class1.md)  
     *   Installation  (http://docs.python.org/2/using/windows.html)  
     *   IDLE Toying (https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/)  
     *   Sublime (http://www.sublimetext.com/)  
@@ -21,11 +24,11 @@ Think Python (http://www.greenteapress.com/thinkpython/thinkpython.pdf)
     *   git (http://git-scm.com/book/en/Getting-Started-Git-Basics)  
         -   Code School tryGit (http://try.github.io/levels/1/challenges/1)  
     *   github (https://help.github.com/articles/set-up-git)  
-2.  [**1/22/2014**](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Class2.md)   Flow Control and Functions  
+2.  [**1/22/2014** Flow Control and Functions](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Class2.md)  
     *   Quiz 1  
     *   ```while``` loop  
     *   Functions and scope  
-3.  **1/29/2014**  Python basics  
+3.  [**1/29/2014**  Python Basics](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Class3.md)  
     *   Introduction to ```arcpy```  
     *   32-bit and 64-bit  
     *   More Flow Control  
