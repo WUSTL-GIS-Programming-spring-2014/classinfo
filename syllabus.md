@@ -38,7 +38,7 @@
     *   Quiz 2: Lists and flow control  
     *   ```os```, ```datetime```, and ```pytz``` modules  
     *   Exceptions  
-    *   ```unittest``` module  
+    *   Classes
     *   Assignment 2: Process a folder of shapefiles  
 5.  **2/12/2014**   Geoprocessing  
     *   Quiz 3  
@@ -46,6 +46,7 @@
     *   ```arcpy.mapping```  
     *   Geoprocessing  
     *   Scheduled tasks  
+    *   ```unittest``` module  
     *   Assignment 3:  Making a map series with ```arcpy.mapping```  
 6.  **2/19/2014**   Working with cursors  
     *   Quiz 4: Automating your scripts  
