@@ -13,4 +13,12 @@
 *	IPython (http://ipython.org/install.html)
 
 No quiz today
-Assignment 1: IPython Notebook: An Informal Introduction to Python 
+
+  
+###RESOURCES
+*	Markdown Cheatsheet https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+*	Github Flavored Markdown (GFM) https://help.github.com/articles/github-flavored-markdown
+*	Git Basics http://git-scm.com/book/en/Getting-Started-Git-Basics
+*	Set Up Git https://help.github.com/articles/set-up-git
+*	tryGit http://try.github.io/
+  
