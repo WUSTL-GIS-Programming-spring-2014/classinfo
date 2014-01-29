@@ -5,7 +5,7 @@
 [Programing ArcGIS 10.1 with Python Cookbook, Chapter 2](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/-/9781849694445/programming-arcgis-10dot1-with-python-cookbook/ch02_html?uicode=washumo)  
 [Think Python, Chapter 8 through "Strings are Immutable"](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781449332006/8dot-strings/id695025?uicode=washumo)  
 [Think Python, Chapter 10](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781449332006/10dot-lists/id698583?uicode=washumo)  
-[Think Python, Chapter 12](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781449332006/12dot-tuples/id704963?uicode=washumo)  
+[Think Python, Chapter 12 through "Lists and Tuples"](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781449332006/12dot-tuples/id704963?uicode=washumo)  
 
 ### Topics
 *   Introduction to ```arcpy```  
