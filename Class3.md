@@ -28,7 +28,7 @@ Tuples
   
 ### Reading for Next Week
 [Think Python, Chapter 14 through Catching Exceptions](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781449332006/14dot-files/id709287?uicode=washumo)  
-[Learning Python, Chapter 33](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781449355722/viidot-exceptions-and-tools/ch33_html?uicode=washumo) 
+[Learning Python, Chapter 33](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781449355722/viidot-exceptions-and-tools/ch33_html?uicode=washumo)  
 [The Python Tutorial, Brief Tour of the Standard Library](http://docs.python.org/2/tutorial/stdlib.html)  
 [Think Python, Chapter 15](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781449332006/15dot-classes-and-objects/id711663?uicode=washumo)  
 [Think Python, Chapter 16 (supplemental)](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781449332006/16dot-classes-and-functions/id713641?uicode=washumo)  
