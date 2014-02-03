@@ -10,4 +10,4 @@ def main(shapefiles,prefix):
 if __name__ == '__main__':
     s = []
     prefix = u''
-    main()
+    main(s, prefix)
