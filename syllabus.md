@@ -34,7 +34,7 @@
     *   More Flow Control  
     *   Data Structures  
     *   Assignment 1: Batch geoprocessing  
-4.  **2/05/2014**   Modules  
+4.  [**2/05/2014**   Modules](https://github.com/WUSTL-GIS-Programming-spring-2014/class_four)  
     *   Quiz 2: Lists and flow control  
     *   ```os```, ```datetime```, and ```pytz``` modules  
     *   Exceptions  
