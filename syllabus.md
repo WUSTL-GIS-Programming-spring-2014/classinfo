@@ -40,7 +40,7 @@
     *   Exceptions  
     *   Classes
     *   Assignment 2: Process a folder of shapefiles  
-5.  **2/12/2014**   Geoprocessing  
+5.  [**2/12/2014**   Geoprocessing](https://github.com/WUSTL-GIS-Programming-spring-2014/class_five)  
     *   Quiz 3  
     *   ```arcpy``` - extensions and licensing  
     *   ```arcpy.mapping```  
