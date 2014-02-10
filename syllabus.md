@@ -6,6 +6,7 @@
 **Primary**  
 [Think Python](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781449332006?uicode=washumo)  
 [Programming ArcGIS 10.1 with Python Cookbook](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/-/9781849694445?uicode=washumo)  
+[Course materials for Programming ArcGIS 10.1 with Python Cookbook posted to Dropbox](https://www.dropbox.com/sh/17yilv6oustbgfy/Juwwvsmlra)  
 [Python Geospatial Development - Second Edition, Chapter 3 only](http://proquest.safaribooksonline.com.libproxy.wustl.edu/book/programming/python/9781782161523/3dot-python-libraries-for-geospatial-development/ch03_html?uicode=washumo)  
   
 **Supplemental Reading**   
