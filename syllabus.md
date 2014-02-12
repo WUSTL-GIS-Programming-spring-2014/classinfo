@@ -51,6 +51,7 @@
     *   Scheduled tasks  
     *   If we have time: ```unittest``` module  
     *   Assignment 3:  Making a map series with ```arcpy.mapping```  
+        [Assignment 3 materials on Dropbox](https://www.dropbox.com/s/ewanlg0vhm9rkv7/Assignment3.zip)
 6.  **2/19/2014**   Working with cursors  
     *   Quiz 4: Automating your scripts  
     *   ```arcpy.da```  
