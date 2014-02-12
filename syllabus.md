@@ -43,11 +43,13 @@
     *   Assignment 2: Process a folder of shapefiles  
 5.  [**2/12/2014**   Geoprocessing](https://github.com/WUSTL-GIS-Programming-spring-2014/class_five)  
     *   Quiz 3  
+    *   Review coding style  
+    *   More on Classes  
     *   ```arcpy``` - extensions and licensing  
     *   ```arcpy.mapping```  
     *   Geoprocessing  
     *   Scheduled tasks  
-    *   ```unittest``` module  
+    *   If we have time: ```unittest``` module  
     *   Assignment 3:  Making a map series with ```arcpy.mapping```  
 6.  **2/19/2014**   Working with cursors  
     *   Quiz 4: Automating your scripts  
