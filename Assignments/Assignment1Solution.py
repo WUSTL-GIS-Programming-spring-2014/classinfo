@@ -11,7 +11,7 @@ def main(shapefiles,prefix):
         # Create output filename for each input shapefile.
         output = prefix + shapefile
         #Run Buffer than loop to next shapefile. Distance is hardcoded.
-        Buffer_analysis (shapefile, output, u'500 Feet')
+        arcpy.Buffer_analysis (shapefile, output, u'500 Feet')
 
 if __name__ == '__main__':
     # Add workspace here along with other arguments.
