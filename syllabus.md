@@ -52,7 +52,7 @@
     *   ~~If we have time: unittest module~~  
     *   Assignment 3:  Making a map series with ```arcpy.mapping```  
         [Assignment 3 materials on Dropbox](https://www.dropbox.com/s/ewanlg0vhm9rkv7/Assignment3.zip)
-6.  **2/19/2014**   [Working with cursors  ](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/tree/master/Classes/Class6)
+6.  [**2/19/2014**   Working with cursors  ](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/tree/master/Classes/Class6)
     *   Quiz 4: Automating your scripts  
     *   ```arcpy.da```  
     *   Search cursor  
@@ -60,7 +60,7 @@
     *   Update cursor  
     *   Assignment 4: Calculate demographics in a file geodatabase  
         [Assignment 4 materials on Dropbox](https://www.dropbox.com/s/jsilzv5wcbzwkw9/Assignment4.gdb.zip)
-7.  **2/26/2014**   Working with rasters  
+7.  [**2/26/2014**   Working with rasters](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class7/README.md)  
     *   Quiz 5: ```arcpy.da``` and tuples  
     *   ```arcpy.sa```  
     *   ```Numpy```  
