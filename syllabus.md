@@ -17,7 +17,7 @@
 ### CLASS SCHEDULE  
   
   
-1.  [**1/15/2014** Course Introduction](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Class1.md)  
+1.  [**1/15/2014** Course Introduction](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/tree/master/Classes/Class1)  
     *   Installation  (http://docs.python.org/2/using/windows.html)  
     *   IDLE Toying (https://hkn.eecs.berkeley.edu/~dyoo/python/idle_intro/)  
     *   Sublime (http://www.sublimetext.com/)  
@@ -25,23 +25,23 @@
     *   git (http://git-scm.com/book/en/Getting-Started-Git-Basics)  
         -   Code School tryGit (http://try.github.io/levels/1/challenges/1)  
     *   github (https://help.github.com/articles/set-up-git)  
-2.  [**1/22/2014** Flow Control and Functions](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Class2.md)  
+2.  [**1/22/2014** Flow Control and Functions](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/tree/master/Classes/Class2)  
     *   Quiz 1  
     *   ```while``` loop  
     *   Functions and scope  
-3.  [**1/29/2014**  Python Basics](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Class3.md)  
+3.  [**1/29/2014**  Python Basics](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/tree/master/Classes/Class3)  
     *   Introduction to ```arcpy```  
     *   32-bit and 64-bit  
     *   More Flow Control  
     *   Data Structures  
     *   Assignment 1: Batch geoprocessing  
-4.  [**2/05/2014**   Modules](https://github.com/WUSTL-GIS-Programming-spring-2014/class_four)  
+4.  [**2/05/2014**   Modules](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/tree/master/Classes/Class4)  
     *   Quiz 2: Lists and flow control  
     *   ```os```, ```datetime```, and ```pytz``` modules  
     *   Exceptions  
     *   Classes
     *   Assignment 2: Process a folder of shapefiles  
-5.  [**2/12/2014**   Geoprocessing](https://github.com/WUSTL-GIS-Programming-spring-2014/class_five)  
+5.  [**2/12/2014**   Geoprocessing](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/tree/master/Classes/Class5)  
     *   Quiz 3  
     *   Review coding style  
     *   More on Classes  
@@ -49,16 +49,17 @@
     *   ```arcpy.mapping```  
     *   Geoprocessing  
     *   Scheduled tasks  
-    *   If we have time: ```unittest``` module  
+    *   ~~If we have time: unittest module~~  
     *   Assignment 3:  Making a map series with ```arcpy.mapping```  
         [Assignment 3 materials on Dropbox](https://www.dropbox.com/s/ewanlg0vhm9rkv7/Assignment3.zip)
-6.  **2/19/2014**   Working with cursors  
+6.  **2/19/2014**   [Working with cursors  ](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/tree/master/Classes/Class6)
     *   Quiz 4: Automating your scripts  
     *   ```arcpy.da```  
     *   Search cursor  
     *   Insert cursor  
     *   Update cursor  
     *   Assignment 4: Calculate demographics in a file geodatabase  
+        [Assignment 4 materials on Dropbox](https://www.dropbox.com/s/jsilzv5wcbzwkw9/Assignment4.gdb.zip)
 7.  **2/26/2014**   Working with rasters  
     *   Quiz 5: ```arcpy.da``` and tuples  
     *   ```arcpy.sa```  
