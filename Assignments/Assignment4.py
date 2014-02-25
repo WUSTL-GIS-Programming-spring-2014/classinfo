@@ -7,7 +7,7 @@
 import arcpy
 
 def idToSchool(i):
-    """When provided a valid district id from '088' to '119', returns the name of the school district
+    """When provided a valid district id from '088' to '119', returns the name of the school district"""
     district = [u'HAZELWOOD', u'FERGUSON-FLORISSANT', u'PATTONVILLE', u'ROCKWOOD', u'KIRKWOOD', u'LINDBERGH', u'MEHLVILLE', u'PARKWAY', u'', u'', u'AFFTON', u'BAYLESS', u'', u'BRENTWOOD', u'CLAYTON', u'HANCOCK PLACE', u'JENNINGS', u'', u'LADUE', u'MAPLEWOOD-RICHMOND HEIGHTS', u'', u'NORMANDY', u'RITENOUR', u'RIVERVIEW GARDENS', u'UNIVERSITY CITY', u'VALLEY PARK', u'WEBSTER GROVES', u'', u'', u'', u'', u'SPECIAL SCHOOL DISTRICT']
     s = dict(zip([str(x).zfill(3) for x in range(88,120)], district))
     try:
@@ -24,7 +24,8 @@ def main():
     # Do NOT modify the DESE feature class.
     
     # Create the empty feature class PublicSchools, templated on schoolPublic with a District field added
-    arcpy.CreateFeatureclass_management(arcpy.env.workspace, u'PublicSchools',"POINT", u'schoolPublicDESE')
+    d = arcpy.Describe(u'schoolPublicDESE')
+    arcpy.CreateFeatureclass_management(arcpy.env.workspace, u'PublicSchools',"POINT", u'schoolPublicDESE',"SAME_AS_TEMPLATE", "SAME_AS_TEMPLATE",d.spatialReference)
     arcpy.AddField_management("PublicSchools","District","TEXT")
     
     # Create an insert cursor for the new empty feature class with an appropriate field list
