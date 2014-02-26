@@ -1,4 +1,5 @@
 # Working with Rasters
+*Install [scipy‑0.13.3.win32‑py2.7.exe](http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy)*
 
 ## Readings
   * [An introduction to Numpy and Scipy](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
