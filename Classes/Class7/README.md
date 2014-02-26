@@ -11,7 +11,7 @@
   * [arcpy.sa Neigborhood classes](http://resources.arcgis.com/en/help/main/10.1/index.html#/An_overview_of_neighborhood_classes/005m0000001p000000/)  
     Neighborhood classes will make much more sense after class
     
-## Map Algebra with arcpy.sa  
+## Map Algebra  
   * Convert DEM between meters and feed (3.28 feet per meter)  
   * Rescale DEM  
   
