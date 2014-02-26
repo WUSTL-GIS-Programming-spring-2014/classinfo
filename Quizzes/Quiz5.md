@@ -11,6 +11,6 @@ Which type of cursor do you use for each of these operations?
 5. Change the attributes of rows in a table
   
 ==========  
-6\. Given tuple (u'River City', u'IA', 52240),
-how would add the element u'76 Trombones' to the tuple?  
+6\. Given tuple (u'River City', u'IA', 52240),  
+how would you add the element u'76 Trombones' to the tuple?  
 (Write one line of python code)
