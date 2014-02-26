@@ -12,6 +12,8 @@
     Neighborhood classes will make much more sense after class
     
 ## Map Algebra with arcpy.sa  
+  * Convert DEM between meters and feed (3.28 feet per meter)  
+  * Rescale DEM  
   
 ## Map Algebra with numpy
   * RasterToNumPyArray  
@@ -20,4 +22,7 @@
 ## Using ```arcpy.sa```
   * ```arcpy.sa``` objects
   * neighborhood classes
-  * Density smoothing with focal statistics.
+  * Density smoothing with focal statistics.  
+  
+## Edge detection with Scikit-image  
+See more examples at the [skimage gallery](http://scikit-image.org/docs/dev/auto_examples/)  
