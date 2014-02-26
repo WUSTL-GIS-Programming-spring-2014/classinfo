@@ -1,5 +1,7 @@
 # Working with Rasters
-*Install [scipy‑0.13.3.win32‑py2.7.exe](http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy)*
+*Install [numpy‑MKL‑1.8.0.win32‑py2.7.exe](http://www.lfd.uci.edu/~gohlke/pythonlibs/#numpy)*  
+*Then install [scipy‑0.13.3.win32‑py2.7.exe](http://www.lfd.uci.edu/~gohlke/pythonlibs/#scipy)*
+*Then install [scikit‑image‑0.9.3.win32‑py2.7.exe])(http://www.lfd.uci.edu/~gohlke/pythonlibs/#scikit-image)*  
 
 ## Readings
   * [An introduction to Numpy and Scipy](http://www.engr.ucsb.edu/~shell/che210d/numpy.pdf)
