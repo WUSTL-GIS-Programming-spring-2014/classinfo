@@ -13,5 +13,5 @@ Which type of cursor do you use for each of these operations?
 ==========  
 6\. Given tuple:  
 ```(u'River City', u'IA', 52240)```,  
-how would you add the element ```u'76 Trombones'``` to the tuple?  
+how would create a new tuple with the added element ```u'76 Trombones'```?  
 (Write one line of python code)
