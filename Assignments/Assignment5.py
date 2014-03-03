@@ -15,7 +15,7 @@ def getBands():
             print '\'faustRed\' not available. Is your workspace set to the geodatabase containing \'faustRed\'?'
         raise e
     try:
-        irband = arcpy.Raster(u'faustRed')
+        irband = arcpy.Raster(u'faustIR')
     except Exception as e:
         if (u'faustIR' not in bands):
             print '\'faustIR\' not available. Is your workspace set to the geodatabase containing \'faustIR\'?'
