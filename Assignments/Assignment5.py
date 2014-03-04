@@ -31,7 +31,7 @@ def mapalgebraNDVI(bands):
     #Assign your result to the variable 'moutput'.
     return moutput
 
-def numpyNDVI(redband,irband):
+def numpyNDVI(bands):
     """Given a tuple of two rasters representing a red band and an ir band, calculate NDVI using numpy."""
     redband,irband = bands
     #Convert the input bands to numpy arrays.
@@ -47,8 +47,8 @@ def numpyNDVI(redband,irband):
 def main():
     """Calculate NDVI in two different ways."""
     arcpy.env.workspace = u'Your workspace' #Set your workspace to the assignment geodatabase on your computer
-    mNDVI = mapalgebraNDVI(getbands)
-    nNDVI = numpyNDVI(numpy)
+    mNDVI = mapalgebraNDVI(getBands())
+    nNDVI = numpyNDVI(getBands())
     #Save mNDVI as u'mNDVI' and nNDVI as u'nNDVI' when you are done
 
 
