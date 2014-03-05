@@ -1,4 +1,4 @@
-1. What command is necessary before using ```arcpy.sa``` function?  
+1. What command is necessary before using ```arcpy.sa``` functions?  
   
     arcpy.CheckOutExtension  
     arcpy.CheckProduct  
