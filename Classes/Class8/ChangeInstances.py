@@ -25,11 +25,11 @@ def main(argv=None):
     serverName = raw_input("Enter Server name: ")
     serverPort = 6080
 
-    folder = raw_input("Enter the folder name or ROOT for the root location: ")
-    cluster = raw_input("Enter the cluster to move services to: ")
     
     print r"Enter the service name in the format <folder>/<name>.<type>."
     service = raw_input(r"For example USA/Chicago.MapServer: ")
+    minInstances = raw_input(r"Enter the minimum number of instances per node: ")
+    maxInstances = raw_input(r"Enter the maximum number of instances per node: ")
     
     # Get a token
     token = getToken(username, password, serverName, serverPort)
@@ -68,8 +68,9 @@ def main(argv=None):
         httpConn.close()
 
         # Edit desired properties of the service
-        if (dataObj["clusterName"] != cluster):
-            dataObj["clusterName"] = cluster
+        if (dataObj["minInstancesPerNode"] != minInstances or dataObj["maxInstancesPerNode"] != maxInstances):
+            dataObj["minInstancesPerNode"] = minInstances
+            dataObj["maxInstancesPerNode"] = maxInstances
 
             # Serialize back into JSON
             updatedSvcJson = json.dumps(dataObj)
