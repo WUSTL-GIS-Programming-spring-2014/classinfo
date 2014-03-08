@@ -26,8 +26,8 @@ You can find additional help for this service at [ArcGIS REST API - World Geocod
   
 If you would like an extra challenge, you can try these alternatives (but please submit the quiz first as assigned).  
 ###Input  
-  * Read the addresses from the provided csv file, addresses.csv.  
-  * Read the address from the provided json file, address.json.  
+  * Read the addresses from the provided csv file, [addresses.csv](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Quizzes/Quiz7/addresses.csv).  
+  * Read the address from the provided json file, [addresses.json](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Quizzes/Quiz7/addresses.json).  
   
 ###Output  
   * Create the feature class you are writing the addresses out to as part of the script.  
