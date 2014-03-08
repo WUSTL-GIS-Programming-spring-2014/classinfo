@@ -22,6 +22,8 @@ It requires two parameters:
 ```f``` The format. For this service, this *must* be set to json. The service will not allow html queries.  
 
 You can find additional help for this service at [ArcGIS REST API - World Geocoding Service - Single input field geocoding](http://resources.arcgis.com/en/help/arcgis-rest-api/#/Single_input_field_geocoding/02r300000015000000/)  
+
+You can use ```requests``` or ```urllib2``` to make your http connections. This would probably be easy with a Session object from ```requests```.  Remember to install the ```requests``` library if you plan to use it, with your best install option probably being the [Unofficial Windows Binaries for Python Extension Packages](http://www.lfd.uci.edu/~gohlke/pythonlibs/#requests)  
   
   
 If you would like an extra challenge, you can try these alternatives (but please submit the quiz first as assigned).  
