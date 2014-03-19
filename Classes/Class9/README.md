@@ -10,4 +10,4 @@
   
 [ArcGIS API for Javascript Sandbox](http://developers.arcgis.com/javascript/sandbox/sandbox.html?sample=map_simple)  
   
-[In Class Demostration pages on Github pages](http://wustl-gis-programming-spring-2014.github.io/demos.html)
+[In Class Demonstration pages on Github pages](http://wustl-gis-programming-spring-2014.github.io/demos.html)
