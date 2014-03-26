@@ -3,6 +3,9 @@
 
 This class continues with material from [Class 9](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class9/README.md)  
 
+[Link to Powerpoint](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class10/intro_to_JSP_API_continued.pptx)  
+*Click "View Raw" to download the powerpoint*  
+
 Resouces used in class:  
 http://gissl-aa.wustl.edu/arcgis/rest/services  
 [Esri Proportional Points Example](https://developers.arcgis.com/javascript/jssamples/renderer_proportional_points.html) ([Live Demo](http://developers.arcgis.com/javascript/samples/renderer_proportional_points/))  
