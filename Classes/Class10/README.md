@@ -3,8 +3,10 @@
 
 This class continues with material from [Class 9](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class9/README.md)  
 
-Resouces used in class: http://gissl-aa.wustl.edu/arcgis/rest/services
-
+Resouces used in class:  
+http://gissl-aa.wustl.edu/arcgis/rest/services  
+[Esri Proportional Points Example](https://developers.arcgis.com/javascript/jssamples/renderer_proportional_points.html) ([Live Demo](http://developers.arcgis.com/javascript/samples/renderer_proportional_points/))  
+[Esri Rotation Example](https://developers.arcgis.com/javascript/jssamples/renderer_class_breaks_proportional_rotation.html) ([Live Demo](http://developers.arcgis.com/javascript/samples/renderer_class_breaks_proportional_rotation/))  
 
 We are also covering [GitHub Pages](http://pages.github.com/) in more detail.  
 
