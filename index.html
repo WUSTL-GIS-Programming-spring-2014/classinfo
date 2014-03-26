@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1,user-scalable=no"/>
+    <title>Color Ramp Renderer</title>
+    <link rel="stylesheet" href="http://js.arcgis.com/3.8/js/esri/css/esri.css">
+    <style>
+      html, body, #map {
+        height: 100%;
+        width: 100%;
+        margin: 0;
+        padding: 0;
+      }
+      body {
+        background-color: #FFF;
+        overflow: hidden;
+        font-family: "Trebuchet MS";
+      }
+      #home{
+        position:absolute;
+        top:120px;
+        left:20px;
+        z-index:1;
+      }
+    
+      <!--The z-index property specifies the stack order of an element.
+      An element with greater stack order is always in front of an element with a lower stack order.-->
+    </style>
+    <script src="http://js.arcgis.com/3.8/"></script>
+    <script>
+      var map;
+      //Add reference to the modules in require()
+      require(["esri/map","esri/dijit/HomeButton","esri/dijit/PopupTemplate","esri/layers/FeatureLayer","dojo/dom","dojo/on","esri/symbols/SimpleLineSymbol",
+      "esri/symbols/SimpleFillSymbol","esri/renderers/SimpleRenderer","dojo/_base/Color","dojo/domReady!",], 
+      function(Map,HomeButton,PopupTemplate,FeatureLayer,dom,on,SimpleLineSymbol,SimpleFillSymbol,SimpleRenderer,Color) {
+    
+        map = new Map("map", {
+          basemap: "gray",
+          center: [-90.4,38.6], // long, lat
+          zoom: 10
+        });
+        //Create an instance of the HomeButton widget 
+        //add a reference to the map, second parameter is where to attach the widget
+        var home = new HomeButton({
+        map:map
+        },"home");
+        home.startup();
+        //Add popup infobox for user-defined layer from ArcGIS server
+        var template = new PopupTemplate({
+        title:"{NAMELSAD10}",
+        fieldInfos:[{fieldName:"POP10",visible:true,label:"Total population",format:{places:0,dijitSeparator:true}},{fieldName:"WHITE10",visible:true,label:"White",format:{places:0,dijitSeparator:true}},
+        {fieldName:"BLACK10",visible:true,label:"Black",format:{places:0,dijitSeparator:true}},{fieldName:"HISP10",visible:true,label:"Hispanic",format:{places:0,dijitSeparator:true}},{fieldName:"ASIAN10",visible:true,label:"Asian",format:{places:0,dijitSeparator:true}}],
+        mediaInfos:[{
+          caption: "Details",
+            type:"barchart",
+            value:{
+              theme: "ThreeD",
+              fields:["WHITE10","BLACK10","HISP10"],
+              normalizeField:"POP10"  
+            }
+          }]
+        });
+        
+        var url = "http://gissl-aa.wustl.edu/arcgis/rest/services/JSP/stl_county_census/MapServer/0";
+        //Add user-defined layer from ArcGIS server // new FeatureLayer(url,{options?})
+        var census = new FeatureLayer(url,{
+        mode:FeatureLayer.MODE_ONDEMAND,//query mode for the feature layer. MODE_ONDEMAND - features are fetched from the server as needed.
+        outFields:["*"],//A comma delimited list of field names to include in the FeatureLayer. If not specified, the feature layer will return the OBJECTID field
+        infoTemplate:template,
+        opacity:0.8
+        });
+      
+        map.addLayer(census);
+        
+        //Use renderer to create a color ramp for quantitative data
+        
+		census.on("load", function(){
+          var renderer = new SimpleRenderer(new SimpleFillSymbol().setOutline(new SimpleLineSymbol().setWidth(0.5)));
+          renderer.setColorInfo({
+            field: "ASIAN10",
+            normalizationField: "POP10",
+            minDataValue: 0,
+            maxDataValue:0.2,
+            colors: [
+              new Color([255, 255, 255]),
+              new Color([127, 127, 0])
+            ]
+          });
+          census.setRenderer(renderer);
+        });
+		
+     
+           
+      });
+    </script>
+  </head>
+
+  <body>
+    <!--Add new element to store the user interface for widgets-->
+    <div id="map">
+      <div id="home"></div>
+    </div>
+  </body>
+</html>
