@@ -65,27 +65,29 @@
     *   ```arcpy.sa```  
     *   ```Numpy```  
     *   Assignment 5:  Calculate NVDI with ```arcpy.sa```  
-8.  **3/05/2014**   ArcGIS Server  
+8.  [**3/05/2014**   ArcGIS Server  ](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class8/README.md)
     *   Quiz 6  
     *   Creating services  
     *   Esri REST API  
     *   ```json```, ```urllib2```, and ```requests```  
     *   Assignment 6 in class:  Scripting ArcGIS Server Administration  
     *   Quiz 7 (take home): Scripting a geocode request  
-9.  **3/12/2014**   Spring Break  
-10. **3/19/2014**   HTML and Esri Javascript API  
+  
+    **3/12/2014**   Spring Break  
+  
+9. [**3/19/2014**   HTML and Esri Javascript API](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class9/README.md)  
     *   Quiz 7 due  
-11. **3/26/2014**   Esri Javascript API  
+10. **3/26/2014**   Esri Javascript API  
     *   JSAPI Continued  
     *   Github Pages  
     *   Assignment 7:  Make a mashup with the JSAPI  
-12. **4/02/2014**   Open Source Mapping  
+11. **4/02/2014**   Open Source Mapping  
     *   Quiz 8  
     *   Leaflet  
     *   OpenLayers  
     *   d3  
     *   Assignment 8:  An open source mashup  
-13. **4/09/2014**   Intro to open source geospatial libraries: vector  
+12. **4/09/2014**   Intro to open source geospatial libraries: vector  
     *   Quiz 9: open source mapping  
 	*	Advanced development environment:  
 		-	```setuptools```, ```distribute```, ```easy_install```, and ```pip```  
@@ -96,12 +98,12 @@
     *   OGR/```fiona```  
     *   ```shapely```  
     *   Assignment 9: Mapping siren coverage with fiona and shapely  
-14. **4/16/2014**   Intro to open source geospatial libraries: raster  
+13. **4/16/2014**   Intro to open source geospatial libraries: raster  
     *   Quiz 10: open source geoprocessing  
     *   ```pyproj``` and Proj4  
     *   GDAL/```rasterio```  
     *   Assignment 10: Calculating NVDI with ```rasterio```  
-15. **4/23/2014**   Review  
+14. **4/23/2014**   Review  
     *   Review for final  
     *   Special Topics as time allows:  
 	    -    Python 3  
@@ -110,7 +112,7 @@
 		-    ```pandas```  
 		-    ```scikit-learn```  
 		-    ```django```  
-16. **4/30/2014**   Final Exam  
+15. **4/30/2014**   Final Exam  
 
   
   
