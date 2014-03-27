@@ -8,6 +8,7 @@ This class continues with material from [Class 9](https://github.com/WUSTL-GIS-P
 
 Resouces used in class:  
 http://gissl-aa.wustl.edu/arcgis/rest/services  
+[St Louis Regional Database Project (Silverlight)](http://maps.wustl.edu/cistl/)  
 [Esri Proportional Points Example](https://developers.arcgis.com/javascript/jssamples/renderer_proportional_points.html) ([Live Demo](http://developers.arcgis.com/javascript/samples/renderer_proportional_points/))  
 [Esri Rotation Example](https://developers.arcgis.com/javascript/jssamples/renderer_class_breaks_proportional_rotation.html) ([Live Demo](http://developers.arcgis.com/javascript/samples/renderer_class_breaks_proportional_rotation/))  
 
