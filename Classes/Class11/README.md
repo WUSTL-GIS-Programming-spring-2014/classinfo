@@ -22,7 +22,7 @@ We will work on the quick start [Tutorial](http://leafletjs.com/examples/quick-s
 * https://github.com/calvinmetcalf/leaflet.filegdb  
 
 
-##[d3](http://d3js.org/)  
+## [d3](http://d3js.org/)  
 [Tutorial](http://alignedleft.com/tutorials/d3/) Do 00.-12. but skip 03.  
 [Make a map tutorial](http://bost.ocks.org/mike/map/)  
   
@@ -30,3 +30,6 @@ Substitute ```<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></scrip
 * Data Binding
 * Styling  
 More d3 geo examples: https://github.com/chelm/esri-d3  
+
+## Resources  
+[St Louis County GeoJSON repository](https://github.com/stlouisco/stlouisco-gis)
