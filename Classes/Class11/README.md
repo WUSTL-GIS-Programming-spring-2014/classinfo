@@ -16,6 +16,8 @@ We will work on the quick start [Tutorial](http://leafletjs.com/examples/quick-s
 * [Using GeoJSON](http://leafletjs.com/examples/geojson.html)  
 * [Plugins](http://leafletjs.com/plugins.html)  
   
+Example API Key for CloudMade: 10d9f8e4181a5b2888c2aca2114fa09c  
+
 ### Conversion Utilities  
 * https://github.com/esri/esri-leaflet  
 * https://github.com/Esri/geojson-utils  
