@@ -81,7 +81,7 @@
     *   JSAPI Continued  
     *   Github Pages  
     *   Assignment 7:  Make a mashup with the JSAPI  
-11. **4/02/2014**   Open Source Mapping  
+11. [**4/02/2014**   Open Source Mapping](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class11/README.md)  
     *   Quiz 8  
     *   Leaflet  
     *   OpenLayers  
