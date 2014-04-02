@@ -34,4 +34,6 @@ Substitute ```<script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></scrip
 More d3 geo examples: https://github.com/chelm/esri-d3  
 
 ## Resources  
-[St Louis County GeoJSON repository](https://github.com/stlouisco/stlouisco-gis)
+[St Louis County GeoJSON repository](https://github.com/stlouisco/stlouisco-gis)  
+[Chicago Open Data repository with GeoJSON](http://digital.cityofchicago.org/index.php/chicago-on-github/)  
+
