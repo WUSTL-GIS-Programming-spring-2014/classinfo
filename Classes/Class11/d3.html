@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>D3 Test</title>
+        <script src="http://d3js.org/d3.v3.min.js" charset="utf-8"></script>
+		<style>
+		div.bar {
+			display: inline-block;
+			width: 20px;
+			height: 75px;   /* We'll override this later */
+			background-color: teal;
+		}
+		</style>
+    </head>
+    <body>
+        <script type="text/javascript">
+			var dataset = [ 5, 10, 15, 20, 25 ];                        //Initialize empty array
+
+			var svg = d3.select("body")
+						.append("svg")
+						.attr("width", 500)
+						.attr("height", 50);
+			var circles = svg.selectAll("circle")
+				.data(dataset)
+				.enter()
+				.append("circle");
+			circles.attr("cx", function(d, i) {
+				return (i * 50) + 25;
+			})
+				.attr("fill","black")
+				.attr("cy", 25)
+				.attr("r", function(d) {
+				return d;
+			});
+        </script>
+    </body>
+</html>
