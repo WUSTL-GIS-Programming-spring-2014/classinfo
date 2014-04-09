@@ -87,7 +87,7 @@
     *   OpenLayers  
     *   d3  
     *   Assignment 8:  An open source mashup  
-12. **4/09/2014**   Intro to open source geospatial libraries: vector  
+12. [**4/09/2014**   Intro to open source geospatial libraries: vector](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class12/README.md)  
     *   Quiz 9: open source mapping  
 	*	Advanced development environment:  
 		-	```setuptools```, ```distribute```, ```easy_install```, and ```pip```  
