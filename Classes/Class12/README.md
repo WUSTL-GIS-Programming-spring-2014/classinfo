@@ -32,11 +32,11 @@ Think of it as a translation library that includes Includes ESRI Shapefile, ESRI
 Has a python package, which we will not use. Find more at [PyPI](https://pypi.python.org/pypi/GDAL/)  
   
 ## [fiona](http://toblerity.org/fiona/fiona.html)  
+Installer at [Python Extension Packages for Windows](http://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona)  
+[Base documentation](http://toblerity.org/fiona/README.html)  
 
-https://github.com/Toblerity/Fiona/blob/master/examples/open.py
-ShapeToGeojson.py
-http://toblerity.org/fiona/README.html
 fiona.open()  
+[fiona.open examples](https://github.com/Toblerity/Fiona/blob/master/examples/open.py(  
 len()  
 next()  
 fiona records  
@@ -49,3 +49,7 @@ fiona collections
 ## [shapely](http://toblerity.org/shapely/shapely.html)  
 http://toblerity.org/shapely/manual.html#spatial-analysis-methods  
 http://toblerity.org/shapely/manual.html#constructive-methods  
+
+
+## Class Example
+[ShapeToGeojson.py](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class12/ShapetoGeojson.py)  
