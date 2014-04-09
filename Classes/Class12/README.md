@@ -45,6 +45,7 @@ fiona collections
   - c.crs (proj.4 parameters with)  
   - fiona.crs.to_string, fiona.crs.from_string, fiona.crs.from_epsg  
   - c.schema  
+  - c.meta  
 
 ## [shapely](http://toblerity.org/shapely/shapely.html)  
 http://toblerity.org/shapely/manual.html#spatial-analysis-methods  
