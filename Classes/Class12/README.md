@@ -20,6 +20,7 @@ Why use other options?
   
 ###Interactive startup file  
 https://docs.python.org/2/tutorial/interpreter.html#the-interactive-startup-file  
+**Need to investigate why this is not working with arcpy**  
   
 ==========  
 ## [OGR](http://www.gdal.org/ogr/)  
