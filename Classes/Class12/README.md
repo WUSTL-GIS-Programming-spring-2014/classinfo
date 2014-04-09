@@ -36,7 +36,7 @@ Installer at [Python Extension Packages for Windows](http://www.lfd.uci.edu/~goh
 [Base documentation](http://toblerity.org/fiona/README.html)  
 
 fiona.open()  
-[fiona.open examples](https://github.com/Toblerity/Fiona/blob/master/examples/open.py(  
+[fiona.open examples](https://github.com/Toblerity/Fiona/blob/master/examples/open.py)  
 len()  
 next()  
 fiona records  
