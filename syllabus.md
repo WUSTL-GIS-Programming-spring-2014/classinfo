@@ -144,7 +144,8 @@ Letter grades are determined by meeting or exceeding a minimum percentage in the
 Grade is percent out of 1000 points.  
   
 Quizzes will generally be three to five questions.  
-All assignments except assignment 9 are written in python and due at the beginning of the next class on github.  
+All assignments except assignments 7 and 8 are written in python and turned in on github.
+All assignments except assignment 6 are due at the beginning of the next class.  
   
 ####Assignment grading  
 15 pts Commenting and coding style  
