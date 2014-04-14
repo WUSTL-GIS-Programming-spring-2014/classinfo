@@ -15,7 +15,8 @@ os.chdir(home) #Fiona relies on relative references to home, so changing here to
 features = []
 with fiona.open(shp) as source: #"r" mode is default.
     for feature in source:
-        feature['geometry'] = mapping(shape(feature['geometry']).buffer(0.0)) #Treating fiona feature geometry as shapely shape, buffer 0 to fix invalid geometry and map back to geojson
+        #Buffer distnace is based on crs of feature
+        feature['geometry'] = mapping(shape(feature['geometry']).buffer(100.0)) #Treating fiona feature geometry as shapely shape, buffer 0 to fix invalid geometry and map back to geojson
         features.append(feature)
     crs = " ".join("+%s=%s" % (k,v) for k,v in source.crs.items())
 
