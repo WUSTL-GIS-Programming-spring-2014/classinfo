@@ -64,7 +64,7 @@
     *   Quiz 5: ```arcpy.da``` and tuples  
     *   ```arcpy.sa```  
     *   ```Numpy```  
-    *   Assignment 5:  Calculate NVDI with ```arcpy.sa```  
+    *   Assignment 5:  Calculate NDVI with ```arcpy.sa```  
 8.  [**3/05/2014**   ArcGIS Server  ](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class8/README.md)
     *   Quiz 6  
     *   Creating services  
@@ -102,7 +102,7 @@
     *   Quiz 10: open source geoprocessing  
     *   ```pyproj``` and Proj4  
     *   GDAL/```rasterio```  
-    *   Assignment 10: Calculating NVDI with ```rasterio```  
+    *   Assignment 10: Calculating NDVI with ```rasterio```  
 14. **4/23/2014**   Review  
     *   Review for final  
     *   Special Topics as time allows:  
