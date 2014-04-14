@@ -10,7 +10,7 @@ from shapely.geometry import mapping, shape
 # shapely.geometry.mapping: http://toblerity.org/shapely/shapely.geometry.html#shapely.geometry.mapping
 
 def main():
-    """Buffer sirens at write out a new shapefile using fiona and shapely."""
+    """Buffer sirens and write out a new shapefile using fiona and shapely."""
 	home = u'Your root directory' # Set the root directory that you are reading from for fiona
 	os.chdir(home)
 	input = u'Sirens.shp' # Change to the correct relative path to your siren shapefile. You can also read from inside the zip file as a virtual filesystem instead.
