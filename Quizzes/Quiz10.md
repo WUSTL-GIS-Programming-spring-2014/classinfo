@@ -1,4 +1,5 @@
 #Quiz 10
+3 pts per question  
 
 ###setuptools(easy_install) vs pip  
 1\. Which tool can uninstall libraries?  
