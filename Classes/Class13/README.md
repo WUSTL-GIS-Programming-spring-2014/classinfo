@@ -84,7 +84,7 @@ Tutorials are written in several languages including python.
 Nicer interface on GDAL from mapbox.  
   
 ###Installation
-Requires ```numpy``` (which installs with ```arcpy```)  
+Requires ```numpy``` (which installs with ```arcpy```), but a higher version than arcpy 10.2  
 Must install [GDAL](http://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal) first. Again, needs C libraries, so use binary installer on Windows.  
 Can install [rasterio](http://www.lfd.uci.edu/~gohlke/pythonlibs/#rasterio) with binary or with pip.  
 
