@@ -48,7 +48,7 @@ fiona.crs.to_string(crs)
 Not all projections are EPSG defined (e.g. State Plane Missouri East FIPS 2401 Feet is ESRI:102696).  
 Will need to use proj4 strings for those.  
   
-```p_sp_mo_e = Proj('+proj=tmerc +lat_0=35.83333333333334 +lon_0=-90.5 +k=0.9999333333333333 +x_0=250000 +y_0=0 +datum=NAD83 +units=us-ft +preserve_units=True +no_defs', preserve_units=True)```   
+```p_sp_mo_e = Proj('+proj=tmerc +lat_0=35.83333333333334 +lon_0=-90.5 +k=0.9999333333333333 +x_0=250000 +y_0=0 +datum=NAD83 +units=us-ft +no_defs', preserve_units=True)```   
 **NOTE: pyproj always converts to meters unless you specify ```preserve_units=True```**  
   
 ###Reprojection
