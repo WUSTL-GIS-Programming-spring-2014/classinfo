@@ -98,8 +98,8 @@
     *   OGR/```fiona```  
     *   ```shapely```  
     *   Assignment 9: Mapping siren coverage with fiona and shapely  
-13. **4/16/2014**   Intro to open source geospatial libraries: raster  
-    *   Quiz 10: open source geoprocessing  
+13. [**4/16/2014**   Intro to open source geospatial libraries: raster](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class13/README.md)  
+    *   [Quiz 10: open source geoprocessing](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Quizzes/Quiz10.md)  
     *   ```pyproj``` and Proj4  
     *   GDAL/```rasterio```  
     *   Assignment 10: Calculating NDVI with ```rasterio```  
