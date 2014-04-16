@@ -6,7 +6,7 @@
   
 2\. Which tool handles binaries better?  
   
-3\. ```virtualenv``` allows you to:
+3\. ```virtualenv``` allows you to:  
 a) Create a set of commands that run when you startup idle  
 b) Switch between different python installations with different versions of libraries installed  
 c) Uninstall installed python libraries  
