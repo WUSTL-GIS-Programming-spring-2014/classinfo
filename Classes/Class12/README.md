@@ -20,8 +20,8 @@ Why use other options?
   
 ###Interactive startup file  
 https://docs.python.org/2/tutorial/interpreter.html#the-interactive-startup-file  
-**Need to investigate why this is not working with arcpy**  
-  
+**On Windows, need to add the -s option to your menu item/shortcut to open IDLE with interactive startup**
+
 ==========  
 ## [OGR](http://www.gdal.org/ogr/)  
 Part of GDAL C++ library for read/write access to many spatial formats.  
