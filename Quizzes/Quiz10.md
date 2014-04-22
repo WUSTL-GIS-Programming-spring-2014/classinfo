@@ -15,7 +15,7 @@ c) Uninstall installed python libraries
 d) Create python packages for distribution  
 
 ###fiona  
-4\. Explain briefly the purpose of defining the schema for a fiona writer.
+4\. Explain briefly the purpose of defining the schema for a fiona writer.  
   *Defining the schema allows you to specify the format of the file to be written, in particular, the geometry type and attributes.*  
   
 ###shapely
