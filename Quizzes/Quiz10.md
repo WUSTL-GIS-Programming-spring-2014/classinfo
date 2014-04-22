@@ -20,5 +20,6 @@ d) Create python packages for distribution
   
 ###shapely
 5\. If you needed to build new features based off existing features, would you use a  
-shapely constructive method or shapely analysis method?  
+shapely constructive method or shapely ~~analysis~~ set-constructive method?  
   *a constructive method*  
+*This question was phrased badly, so giving credit for all answers.*  
