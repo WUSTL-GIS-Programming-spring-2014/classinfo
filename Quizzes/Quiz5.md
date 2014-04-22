@@ -1,4 +1,5 @@
 Which type of cursor do you use for each of these operations?  
+(2.5 pts each)  
   
 1. Delete rows from a table
   
