@@ -2,6 +2,7 @@
 # Assignment 10: NDVI with rasterio
 # Note: NDVI = (IR - R)/(IR + R)
 # Use the same data as Assignmetn 5 at https://www.dropbox.com/s/lo91vpjlh7c0a5i/Assignment5.gdb.zip
+# Or use this fourband image: https://www.dropbox.com/s/l3zs3icbijkg80v/faust.tif.zip
 # You can convert to whatever image format you would like, or I will provide a sample tif on Monday.
 import os
 import rasterio
@@ -21,6 +22,7 @@ def main(imagepath,outputpath):
 # Call your main function when program is executed.
 # This allows import without executing the main function
 if __name__ == '__main__':
-    os.chmod(<root directory>)
+    os.chdir(<root directory>)
     imagepath = u'path to image'
+    outpath = u'path to output image' # Not a folder, but the actual image you want to write
     print main(imagepath,outputpath)
