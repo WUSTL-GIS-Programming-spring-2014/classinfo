@@ -39,7 +39,7 @@
     </hmtl>
 
   
-Describe the results of these three function calls (3 pts each)  
+Describe the results of these three function calls (1 pt each)  
   
 7\. d3.select("p");  
   *The first paragraph (p) element in the page, whose text is currently "A".*  
