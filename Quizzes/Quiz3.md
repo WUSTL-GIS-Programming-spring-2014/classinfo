@@ -23,9 +23,9 @@
                 c = 1
 ```
 What are the values of a, b, and c?  
-  a = 1  
-    When ```print x``` raises an error, the next line is skipped, so a stays at 1 instead of being set to 2.  
-  b = 1  
-    The ```NameError``` exception is caught by the first ```except NameError``` clause. The second catch all ```except``` is skipped because the error has already been handled.  
-  c = 1  
-    The ```finally``` is executed after error handling as a last operation before exiting the ```try``` block.  
+  *a = 1*  
+    *When ```print x``` raises an error, the next line is skipped, so a stays at 1 instead of being set to 2.*  
+  *b = 1*  
+    *The ```NameError``` exception is caught by the first ```except NameError``` clause. The second catch all ```except``` is skipped because the error has already been handled.*  
+  *c = 1*  
+    *The ```finally``` is executed after error handling as a last operation before exiting the ```try``` block.*  
