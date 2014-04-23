@@ -7,7 +7,7 @@ You will be provided with an mxd, a layer file, and part of the html file for Le
 ## Functions that you will write  
 1. Modify a python object according to specifications and output a tuple. (Data structures)  
 2. Return a timestamp from a string with a specified timezone. (datetime & pytz)  
-3. Check for the presence of a shapefile in a path, and create the shapefile if needed. (arcpy)  
+3. Check for the presence of a shapefile (or optionally feature class in a geodatabase) in a path, and create the shapefile if needed. (arcpy)  
 4. Retrieve a json array using ```requests``` from a specific url and return a list of python objects. Optionally, use ```urllib2```. (requests or urllib2)  
 5. Take a shapefile and a tuple representing a feature, and insert the feature if it is not present. (arcpy.da)
 6. Convert a shapefile to geojson using ```fiona```. (fiona)  
