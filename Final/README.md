@@ -1,5 +1,5 @@
 # Exam concept
-The concept of this exam is that you have an online file available of a wi-fi survey, and you are going to right a script that will read this wi-fi survey and both replace an existing PDF and update a web map to show the location of wi-fi coverage.  
+The concept of this exam is that you have an online file available of a wi-fi survey, and you are going to write a script that will read this wi-fi survey and both replace an existing PDF and update a web map to show the location of wi-fi coverage.  
 You will be provided with an mxd, a layer file, and part of the html file for Leaflet.  
 (Note: The sample data and exam data will not be real maps of wi-fi coverage.)  
 
