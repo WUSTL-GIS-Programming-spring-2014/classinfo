@@ -1,5 +1,5 @@
 Functions that you will write:  
-1. Modify a python object according to specifications and output a tuple. (Data structres)  
+1. Modify a python object according to specifications and output a tuple. (Data structures)  
 2. Return a timestamp from a string with a specified timezone. (datetime & pytz)  
 3. Check for the presence of a shapefile in a path, and create the shapefile if needed. (arcpy)  
 4. Retrieve a json array using ```requests``` from a specific url and return a list of python objects. Optionally, use ```urllib2```. (requests or urllib2)  
