@@ -14,7 +14,7 @@ You will be provided with an mxd, a layer file, and part of the html file for Le
 7. With ```shapely``` or ```arcpy```, buffer points in a shapefile, using a value from a field. (shapely and fiona or arcpy geoprocessing)  
 8. Combine rasters using ```numpy``` and output to new raster, with ```arcpy```, not ```rasterio```, due to ```numpy``` conflict. (numpy)  
 9. Generate a PDF file from an MXD based on the extent of a layer in the MXD. (arcpy.mapping)  
-10. Create a webmap using geojson (Leaflet)  
+10. Create a webmap using geojson (Leaflet) [Example](http://leafletjs.com/examples/geojson.html)  
 
 ## Rules
 * You can use any resource you want except each other and live people (cannot text a friend, post on a forum, etc).  
