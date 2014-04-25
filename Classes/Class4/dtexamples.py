@@ -23,7 +23,7 @@ print "strftime('Hour %H on a %A in %Y'):", datetime.now().strftime('Hour %H on 
 
 # Check if pytz exists first.
 if pytz:
-    utc = pytz.utc()
+    utc = pytz.utc
     central = pytz.timezone('US/Central')
     central = pytz.timezone('US/Eastern')
     print "Central time zone now()", central.localize(datetime.now())
