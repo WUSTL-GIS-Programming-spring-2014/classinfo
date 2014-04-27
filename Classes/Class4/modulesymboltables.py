@@ -2,6 +2,7 @@ a = 0
 def myName():
     print "When called by a function in my namespace, my name is", __name__
 def whatisa():
+    a = 1
     print a
 def whatisglobala():
     global a
