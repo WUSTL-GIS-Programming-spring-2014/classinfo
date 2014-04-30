@@ -60,12 +60,12 @@
     *   Update cursor  
     *   Assignment 4: Calculate demographics in a file geodatabase  
         [Assignment 4 materials on Dropbox](https://www.dropbox.com/s/jsilzv5wcbzwkw9/Assignment4.gdb.zip)
-7.  [**2/26/2014**   Working with rasters](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class7/README.md)  
+7.  [**2/26/2014**   Working with rasters](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class7/)  
     *   Quiz 5: ```arcpy.da``` and tuples  
     *   ```arcpy.sa```  
     *   ```Numpy```  
     *   Assignment 5:  Calculate NDVI with ```arcpy.sa```  
-8.  [**3/05/2014**   ArcGIS Server  ](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class8/README.md)
+8.  [**3/05/2014**   ArcGIS Server  ](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class8/)
     *   Quiz 6  
     *   Creating services  
     *   Esri REST API  
@@ -75,19 +75,19 @@
   
     **3/12/2014**   Spring Break  
   
-9. [**3/19/2014**   HTML and Esri Javascript API](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class9/README.md)  
+9. [**3/19/2014**   HTML and Esri Javascript API](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class9/)  
     *   Quiz 7 due  
 10. **3/26/2014**   Esri Javascript API  
     *   JSAPI Continued  
     *   Github Pages  
     *   Assignment 7:  Make a mashup with the JSAPI  
-11. [**4/02/2014**   Open Source Mapping](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class11/README.md)  
+11. [**4/02/2014**   Open Source Mapping](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class11/)  
     *   Quiz 8  
     *   Leaflet  
     *   OpenLayers  
     *   d3  
     *   Assignment 8:  An open source mashup  
-12. [**4/09/2014**   Intro to open source geospatial libraries: vector](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class12/README.md)  
+12. [**4/09/2014**   Intro to open source geospatial libraries: vector](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class12/)  
     *   Quiz 9: open source mapping  
 	*	Advanced development environment:  
 		-	```setuptools```, ```distribute```, ```easy_install```, and ```pip```  
@@ -98,7 +98,7 @@
     *   OGR/```fiona```  
     *   ```shapely```  
     *   Assignment 9: Mapping siren coverage with fiona and shapely  
-13. [**4/16/2014**   Intro to open source geospatial libraries: raster](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class13/README.md)  
+13. [**4/16/2014**   Intro to open source geospatial libraries: raster](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Classes/Class13/)  
     *   [Quiz 10: open source geoprocessing](https://github.com/WUSTL-GIS-Programming-spring-2014/classinfo/blob/master/Quizzes/Quiz10.md)  
     *   ```pyproj``` and Proj4  
     *   GDAL/```rasterio```  
