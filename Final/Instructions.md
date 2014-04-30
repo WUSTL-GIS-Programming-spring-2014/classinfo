@@ -15,7 +15,7 @@ requests: http://www.lfd.uci.edu/~gohlke/pythonlibs/#requests
 ##Exam
 The materials will be available on the shared drive. Aster will give you the location in class.  
   
-Unzip the zip file onto the C drive so that all contents are contained in C:\final and not in C:\final\final.  
+Copy the final folder to your C: drive so that all the materials are located in C:\final\\.  
 Open C:\final\final.py, using whatever editor you wish.  
 
 final.py contains 9 incomplete functions, named func1.py to func9.py. Do not modify any code below the comment box explaining problem 10.  
