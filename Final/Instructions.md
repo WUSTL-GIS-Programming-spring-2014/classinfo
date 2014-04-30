@@ -1,16 +1,17 @@
-#Instructions
-
-##Python packages
-You can start downloading these immediately, even before the exam.
-You will need these libraries (win32-py2.7 versions):
-pytz: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pytz
-gdal: http://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
-six: http://www.lfd.uci.edu/~gohlke/pythonlibs/#six
-fiona: http://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona
-
-You can optionally use this library for Problem 1 (it is easier than other options):
-requests: http://www.lfd.uci.edu/~gohlke/pythonlibs/#requests
-
+#Instructions  
+  
+##Python packages  
+You can start downloading these immediately, even before the exam.  
+  
+You will need these libraries (win32-py2.7 versions):  
+pytz: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pytz  
+gdal: http://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal  
+six: http://www.lfd.uci.edu/~gohlke/pythonlibs/#six  
+fiona: http://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona  
+  
+You can optionally use this library for Problem 1 (it is easier than other options):  
+requests: http://www.lfd.uci.edu/~gohlke/pythonlibs/#requests  
+  
 ##Exam
 Aster will provide you with a dropbox link to a zip file. She may also place the materials on the shared drive.  
   
