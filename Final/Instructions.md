@@ -1,6 +1,22 @@
+#Instructions
+
+##Python packages
+You can start downloading these immediately, even before the exam.
+You will need these libraries (win32-py2.7 versions):
+pytz: http://www.lfd.uci.edu/~gohlke/pythonlibs/#pytz
+gdal: http://www.lfd.uci.edu/~gohlke/pythonlibs/#gdal
+six: http://www.lfd.uci.edu/~gohlke/pythonlibs/#six
+fiona: http://www.lfd.uci.edu/~gohlke/pythonlibs/#fiona
+
+You can optionally use this library for Problem 1 (it is easier than other options):
+requests: http://www.lfd.uci.edu/~gohlke/pythonlibs/#requests
+
+##Exam
+Aster will provide you with a dropbox link to a zip file. She may also place the materials on the shared drive.  
+  
 Unzip the zip file onto the C drive so that all contents are contained in C:\final and not in C:\final\final.  
 Open C:\final\final.py, using whatever editor you wish.  
-  
+
 final.py contains 9 incomplete functions, named func1.py to func9.py. Do not modify any code below the comment box explaining problem 10.  
   
 You should be able to work on any of the functions without completing previous functions. The main program will switch to intermediate inputs if previous functions fail or are incomplete.  
