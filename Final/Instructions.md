@@ -19,6 +19,10 @@ Unzip the zip file onto the C drive so that all contents are contained in C:\fin
 Open C:\final\final.py, using whatever editor you wish.  
 
 final.py contains 9 incomplete functions, named func1.py to func9.py. Do not modify any code below the comment box explaining problem 10.  
+
+The exam mostly increases in difficulty and time required for a question. Each question is 10 pts, with 10 pts for a complete answer and partial credit depending on how complete your logic is otherwise (be sure to use comments to demonstrate this).  Problem 7 is much more simple than its location in the exam, and problem 9 is relatively simple. You can do both of these before other questions.    
+Problems 1, 2, and 3 are self-checking. The main() function will compare your output to the expected output for you.   Problems 4 through 9 have expected outputs in the ExpectedOutputs folder. You can use ArcMap or Notepad++ (for geojson) to compare your output with the expected outputs.  
+There is no comparison output for problem 10.  
   
 You should be able to work on any of the functions without completing previous functions. The main program will switch to intermediate inputs if previous functions fail or are incomplete.  
   
