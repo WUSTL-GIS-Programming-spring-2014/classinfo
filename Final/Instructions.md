@@ -13,7 +13,7 @@ You can optionally use this library for Problem 1 (it is easier than other optio
 requests: http://www.lfd.uci.edu/~gohlke/pythonlibs/#requests  
   
 ##Exam
-Aster will provide you with a dropbox link to a zip file. She may also place the materials on the shared drive.  
+The materials will be available on the shared drive. Aster will give you the location in class.  
   
 Unzip the zip file onto the C drive so that all contents are contained in C:\final and not in C:\final\final.  
 Open C:\final\final.py, using whatever editor you wish.  
